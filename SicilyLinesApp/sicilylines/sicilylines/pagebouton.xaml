@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="sicilylines.pagebouton"
+             Title="👤 Mon Espace"
+             BackgroundColor="#333">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*" />
+            <!-- Occupe l'espace restant -->
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Titre en haut -->
+        <Label Grid.Row="0"
+               Text="🚢 Sicily Lines"
+               FontSize="32"
+               FontAttributes="Bold"
+               TextColor="Magenta"
+               HorizontalOptions="Center"
+               Margin="0,30,0,10"/>
+
+        <!-- Section des boutons centrée verticalement -->
+        <VerticalStackLayout Grid.Row="1"
+                             Spacing="20"
+                             HorizontalOptions="Center"
+                             VerticalOptions="CenterAndExpand">
+            <!-- Centre verticalement -->
+
+            <Button x:Name="BoutonReservations"
+                    Text="📄 Afficher mes réservations"
+                    BackgroundColor="DeepPink"
+                    TextColor="White"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    Clicked="BoutonReservations_Clicked"
+                    CornerRadius="25"
+                    WidthRequest="300"
+                    HeightRequest="60">
+                <Button.Shadow>
+                    <Shadow Brush="Black"
+                            Offset="5,5"
+                            Radius="10"
+                            Opacity="0.3"/>
+                </Button.Shadow>
+            </Button>
+
+            <Button x:Name="BoutonProfil"
+                    Text="🙍‍♂️ Voir mon profil"
+                    BackgroundColor="DarkCyan"
+                    TextColor="White"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    Clicked="BoutonProfil_Clicked"
+                    CornerRadius="25"
+                    WidthRequest="300"
+                    HeightRequest="60">
+                <Button.Shadow>
+                    <Shadow Brush="Black"
+                            Offset="5,5"
+                            Radius="10"
+                            Opacity="0.3"/>
+                </Button.Shadow>
+            </Button>
+        </VerticalStackLayout>
+
+        <!-- Bouton de déconnexion -->
+        <Button Grid.Row="2"
+        Text="Se déconnecter"
+        Clicked="OnLogoutButtonClicked"
+        BackgroundColor="Red"
+        TextColor="White"
+        HorizontalOptions="Center"
+        VerticalOptions="End"
+        Margin="0,20"/>
+
+    </Grid>
+</ContentPage>

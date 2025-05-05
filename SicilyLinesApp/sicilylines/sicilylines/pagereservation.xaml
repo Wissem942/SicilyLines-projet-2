@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="sicilylines.pagereservation"
+             Title="⛵ Mes Réservations"
+             BackgroundColor="#333">
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+
+            <Label Text="⛵ Mes Réservations" 
+                   FontSize="28" 
+                   FontAttributes="Bold"
+                   TextColor="white"
+                   HorizontalOptions="Center"/>
+
+            <Label Text="🧾 Voici la liste de vos traversées :" 
+                   FontSize="18" 
+                   TextColor="White"/>
+
+            <!-- Message affiché s'il n'y a pas de réservations -->
+            <Label x:Name="messageAucuneReservation"
+                   Text="📭 Vous n'avez aucune réservation pour le moment."
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   FontSize="16"
+                   TextColor="Gray"
+                   IsVisible="False"/>
+
+            <!-- CollectionView pour afficher les réservations -->
+            <CollectionView x:Name="listeReservations">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Margin="0,5"
+                               Padding="15"
+                               
+                               BackgroundColor="{Binding CouleurFond}"
+                               CornerRadius="12"
+                               HasShadow="True">
+
+                            <StackLayout Spacing="4">
+                                <Label Text="{Binding Libelle}"
+                                       FontAttributes="Bold"
+                                       FontSize="18"
+                                       TextColor="WhiteSmoke"/>
+
+                                <Label Text="{Binding Id_reservation, StringFormat='🔢 Réservation N° : {0}'}"
+                                       TextColor="WhiteSmoke"/>
+                                <Label Text="{Binding Id_liaison, StringFormat='🛳️ Liaison N° : {0}'}"
+                                       TextColor="WhiteSmoke"/>
+                                <Label Text="{Binding Id_traverse, StringFormat='🚢 Traversée N° : {0}'}"
+                                       TextColor="WhiteSmoke"/>
+                                <Label Text="{Binding DateTraverse, StringFormat='📆 Date : {0}'}"
+                                       TextColor="WhiteSmoke"/>
+                            </StackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+
+                <CollectionView.EmptyView>
+                    <Label Text="📭 Vous n'avez aucune réservation pour le moment."
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center"
+                           FontSize="16"
+                           TextColor="Gray"/>
+                </CollectionView.EmptyView>
+            </CollectionView>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

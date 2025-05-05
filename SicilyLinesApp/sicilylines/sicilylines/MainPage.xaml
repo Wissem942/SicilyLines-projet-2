@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="sicilylines.MainPage"
+             Title="🔐 Connexion"
+             BackgroundColor="#333">
+
+    <ScrollView>
+        <VerticalStackLayout 
+            Spacing="25" 
+            Padding="30"
+            VerticalOptions="FillAndExpand"
+            HorizontalOptions="FillAndExpand">
+
+            <!-- Header -->
+            <Label Text="🚢 Sicily Lines"
+                   FontSize="36"
+                   FontAttributes="Bold"
+                   TextColor="Magenta"
+                   HorizontalOptions="Center"
+                   Margin="0,30,0,0"/>
+
+            <!-- Zone de bienvenue centrée verticalement -->
+            <Grid HeightRequest="150"
+                  VerticalOptions="CenterAndExpand"
+                  HorizontalOptions="FillAndExpand">
+                <VerticalStackLayout VerticalOptions="Center"
+                                     HorizontalOptions="Center">
+                    <Label Text="👋 Bienvenue"
+                           FontSize="28"
+                           FontAttributes="Bold"
+                           TextColor="White"
+                           HorizontalOptions="Center"/>
+                    <Label Text="🔑 Connectez-vous à votre compte"
+                           FontSize="16"
+                           TextColor="White"
+                           HorizontalOptions="Center"/>
+                </VerticalStackLayout>
+            </Grid>
+
+            <!-- Logo -->
+            <Border 
+                Stroke="Transparent"
+                BackgroundColor="Transparent"
+                HorizontalOptions="Center">
+                <Image Source="dotnet_logo.png"
+                       HeightRequest="120"
+                       WidthRequest="120"
+                       Aspect="AspectFit"/>
+            </Border>
+
+            <!-- Pseudo Input -->
+            <Border Stroke="#E0E0E0"
+                    StrokeThickness="1"
+                    StrokeShape="RoundRectangle 10"
+                    Background="White">
+                <Entry Placeholder="👤 Pseudo"
+                       x:Name="PseudoEntry"
+                       Keyboard="Email"
+                       TextColor="#333333"
+                       PlaceholderColor="Black"
+                       Margin="15,0"/>
+            </Border>
+
+            <!-- Password Input -->
+            <Border Stroke="#E0E0E0"
+                    StrokeThickness="1"
+                    StrokeShape="RoundRectangle 10"
+                    Background="White">
+                <Grid ColumnDefinitions="*,Auto">
+                    <Entry Grid.Column="0"
+                           Placeholder="🔒 Mot de passe"
+                           x:Name="PasswordEntry"
+                           IsPassword="True"
+                           TextColor="#333333"
+                           PlaceholderColor="Black"
+                           Margin="15,0"/>
+                    <ImageButton Grid.Column="1"
+                                 Source="eye_icon.png"
+                                 BackgroundColor="Transparent"
+                                 Margin="0,0,10,0"/>
+                </Grid>
+            </Border>
+
+            <!-- Login Button -->
+            <Button Text="🚪 SE CONNECTER"
+                    BackgroundColor="Magenta"
+                    TextColor="White"
+                    FontAttributes="Bold"
+                    CornerRadius="10"
+                    HeightRequest="50"
+                    VerticalOptions="End"
+                    Clicked="Button_Clicked"/>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

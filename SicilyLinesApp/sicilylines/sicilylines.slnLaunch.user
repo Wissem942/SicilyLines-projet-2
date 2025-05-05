@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "ApiClient\\ApiClient.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "sicilylines\\sicilylines.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "Windows Machine"
+      }
+    ]
+  }
+]

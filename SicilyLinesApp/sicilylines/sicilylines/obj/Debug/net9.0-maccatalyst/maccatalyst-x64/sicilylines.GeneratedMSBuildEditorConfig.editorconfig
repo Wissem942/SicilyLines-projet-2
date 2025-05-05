@@ -1,0 +1,67 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = sicilylines
+build_property.ProjectDir = C:\Users\bilel\Desktop\SicilyLinesApp\sicilylines\sicilylines\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/bilel/Desktop/SicilyLinesApp/sicilylines/sicilylines/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = sicilylines.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/bilel/Desktop/SicilyLinesApp/sicilylines/sicilylines/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = sicilylines.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/bilel/Desktop/SicilyLinesApp/sicilylines/sicilylines/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = sicilylines.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/bilel/Desktop/SicilyLinesApp/sicilylines/sicilylines/pagebouton.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = sicilylines.pagebouton.xaml
+build_metadata.AdditionalFiles.TargetPath = pagebouton.xaml
+build_metadata.AdditionalFiles.RelativePath = pagebouton.xaml
+
+[C:/Users/bilel/Desktop/SicilyLinesApp/sicilylines/sicilylines/pagecompte.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = sicilylines.pagecompte.xaml
+build_metadata.AdditionalFiles.TargetPath = pagecompte.xaml
+build_metadata.AdditionalFiles.RelativePath = pagecompte.xaml
+
+[C:/Users/bilel/Desktop/SicilyLinesApp/sicilylines/sicilylines/pagereservation.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = sicilylines.pagereservation.xaml
+build_metadata.AdditionalFiles.TargetPath = pagereservation.xaml
+build_metadata.AdditionalFiles.RelativePath = pagereservation.xaml
+
+[C:/Users/bilel/Desktop/SicilyLinesApp/sicilylines/sicilylines/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = sicilylines.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/bilel/Desktop/SicilyLinesApp/sicilylines/sicilylines/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = sicilylines.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

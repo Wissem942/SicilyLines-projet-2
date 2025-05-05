@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="sicilylines.pagecompte"
+             Title="Mon Compte"
+             BackgroundColor="#333">
+
+    <ScrollView>
+        <VerticalStackLayout Spacing="20" 
+                              Padding="20"
+                              VerticalOptions="Center">
+
+            <Label Text="🧑‍💼 Informations du Compte" 
+                   FontSize="24" 
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"
+                   TextColor="White"/>
+
+            <Frame BorderColor="#444" 
+                   BackgroundColor="#444"
+                   CornerRadius="15"
+                   Padding="20">
+
+                <VerticalStackLayout Spacing="15">
+
+                    <!-- Nom -->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="120"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label Text="👤 Nom" 
+                               TextColor="White"
+                               FontAttributes="Bold"
+                               Grid.Column="0"
+                               VerticalOptions="Center"/>
+                        <Entry x:Name="NomEntry"
+                               Grid.Column="1"
+                               Placeholder="Votre nom"
+                               Text="{Binding Nom}"
+                               IsEnabled="False"
+                               TextColor="White"
+                               PlaceholderColor="#aaa"
+                               BackgroundColor="#222"/>
+                    </Grid>
+
+                    <!-- Prénom -->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="120"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label Text="🧍‍♂️ Prénom" 
+                               TextColor="White"
+                               FontAttributes="Bold"
+                               Grid.Column="0"
+                               VerticalOptions="Center"/>
+                        <Entry x:Name="PrenomEntry"
+                               Grid.Column="1"
+                               Placeholder="Votre prénom"
+                               Text="{Binding Prenom}"
+                               IsEnabled="False"
+                               TextColor="White"
+                               PlaceholderColor="#aaa"
+                               BackgroundColor="#222"/>
+                    </Grid>
+
+                    <!-- Pseudo -->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="120"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label Text="📛 Pseudo" 
+                               TextColor="White"
+                               FontAttributes="Bold"
+                               Grid.Column="0"
+                               VerticalOptions="Center"/>
+                        <Entry x:Name="PseudoEntry"
+                               Grid.Column="1"
+                               Placeholder="Votre pseudo"
+                               Text="{Binding Pseudo}"
+                               IsEnabled="False"
+                               TextColor="White"
+                               PlaceholderColor="#aaa"
+                               BackgroundColor="#222"/>
+                    </Grid>
+
+                    <!-- Adresse -->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="120"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label Text="🏠 Adresse" 
+                               TextColor="White"
+                               FontAttributes="Bold"
+                               Grid.Column="0"
+                               VerticalOptions="Center"/>
+                        <Entry x:Name="AdresseEntry"
+                               Grid.Column="1"
+                               Placeholder="Votre adresse"
+                               Text="{Binding Adresse}"
+                               TextColor="White"
+                               PlaceholderColor="#aaa"
+                               BackgroundColor="#222"/>
+                    </Grid>
+
+                    <!-- Code Postal -->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="120"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label Text="🏷️ Code Postal" 
+                               TextColor="White"
+                               FontAttributes="Bold"
+                               Grid.Column="0"
+                               VerticalOptions="Center"/>
+                        <Entry x:Name="CpEntry"
+                               Grid.Column="1"
+                               Placeholder="Votre code postal"
+                               Text="{Binding Cp}"
+                               IsEnabled="False"
+                               TextColor="White"
+                               PlaceholderColor="#aaa"
+                               BackgroundColor="#222"/>
+                    </Grid>
+
+                    <!-- Téléphone -->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="120"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label Text="📞 Téléphone" 
+                               TextColor="White"
+                               FontAttributes="Bold"
+                               Grid.Column="0"
+                               VerticalOptions="Center"/>
+                        <Entry x:Name="TelEntry"
+                               Grid.Column="1"
+                               Placeholder="Votre numéro de téléphone"
+                               Text="{Binding Tel}"
+                               Keyboard="Telephone"
+                               TextColor="White"
+                               PlaceholderColor="#aaa"
+                               BackgroundColor="#222"/>
+                    </Grid>
+
+                    <!-- Mot de Passe -->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="120"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label Text="🔒 Mot de passe" 
+                               TextColor="White"
+                               FontAttributes="Bold"
+                               Grid.Column="0"
+                               VerticalOptions="Center"/>
+                        <Entry x:Name="mdpEntry"
+                               Grid.Column="1"
+                               Placeholder="Mot de passe"
+                               IsPassword="True"
+                               Text="{Binding MotDePasse}"
+                               TextColor="White"
+                               PlaceholderColor="#aaa"
+                               BackgroundColor="#222"/>
+                    </Grid>
+                </VerticalStackLayout>
+            </Frame>
+
+            <!-- Bouton Enregistrer -->
+            <Button Text="💾 Enregistrer les modifications"
+                    BackgroundColor="#3498DB"
+                    TextColor="White"
+                    FontAttributes="Bold"
+                    FontSize="16"
+                    CornerRadius="25"
+                    HeightRequest="50"
+                    Clicked="Button_Clicked"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

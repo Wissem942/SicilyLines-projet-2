@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2104CAC-24BF-420A-B675-24E34BC7BB7D}|ApiClient\\ApiClient.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\apiclient\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2104CAC-24BF-420A-B675-24E34BC7BB7D}|ApiClient\\ApiClient.csproj|solutionrelative:apiclient\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2104CAC-24BF-420A-B675-24E34BC7BB7D}|ApiClient\\ApiClient.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\apiclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2104CAC-24BF-420A-B675-24E34BC7BB7D}|ApiClient\\ApiClient.csproj|solutionrelative:apiclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\sicilylines\\pagebouton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|solutionrelative:sicilylines\\pagebouton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\sicilylines\\pagereservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|solutionrelative:sicilylines\\pagereservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\sicilylines\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|solutionrelative:sicilylines\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\sicilylines\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|solutionrelative:sicilylines\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\sicilylines\\pagecompte.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|solutionrelative:sicilylines\\pagecompte.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\sicilylines\\pagecompte.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|solutionrelative:sicilylines\\pagecompte.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\sicilylines\\pagereservation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|solutionrelative:sicilylines\\pagereservation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\sicilylines\\pagebouton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|solutionrelative:sicilylines\\pagebouton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\sicilylines\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|solutionrelative:sicilylines\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\sicilylines\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|solutionrelative:sicilylines\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\sicilylines\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|solutionrelative:sicilylines\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\sicilylines\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|solutionrelative:sicilylines\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2104CAC-24BF-420A-B675-24E34BC7BB7D}|ApiClient\\ApiClient.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\apiclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2104CAC-24BF-420A-B675-24E34BC7BB7D}|ApiClient\\ApiClient.csproj|solutionrelative:apiclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2104CAC-24BF-420A-B675-24E34BC7BB7D}|ApiClient\\ApiClient.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\apiclient\\clientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2104CAC-24BF-420A-B675-24E34BC7BB7D}|ApiClient\\ApiClient.csproj|solutionrelative:apiclient\\clientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2104CAC-24BF-420A-B675-24E34BC7BB7D}|ApiClient\\ApiClient.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\apiclient\\apiclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2104CAC-24BF-420A-B675-24E34BC7BB7D}|ApiClient\\ApiClient.csproj|solutionrelative:apiclient\\apiclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\sicilylines\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|solutionrelative:sicilylines\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visualstudio2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\viann\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.50\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|c:\\users\\bilel\\desktop\\sicilylinesapp\\sicilylines\\sicilylines\\sicilylines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD2766FF-4E27-403A-9FED-52DACD8524C0}|sicilylines\\sicilylines.csproj|solutionrelative:sicilylines\\sicilylines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\ApiClient\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApiClient\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\ApiClient\\appsettings.Development.json",
+              "RelativeToolTip": "ApiClient\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T07:11:05.464Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\ApiClient\\Client.cs",
+              "RelativeDocumentMoniker": "ApiClient\\Client.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\ApiClient\\Client.cs",
+              "RelativeToolTip": "ApiClient\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:19:55.696Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "sicilylines\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\MainPage.xaml.cs",
+              "RelativeToolTip": "sicilylines\\MainPage.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAEwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:56:34.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pagecompte.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\pagecompte.xaml.cs",
+              "RelativeDocumentMoniker": "sicilylines\\pagecompte.xaml.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\pagecompte.xaml.cs",
+              "RelativeToolTip": "sicilylines\\pagecompte.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:55:31.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "pagebouton.xaml",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\pagebouton.xaml",
+              "RelativeDocumentMoniker": "sicilylines\\pagebouton.xaml",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\pagebouton.xaml",
+              "RelativeToolTip": "sicilylines\\pagebouton.xaml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T21:20:06.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pagebouton.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\pagebouton.xaml.cs",
+              "RelativeDocumentMoniker": "sicilylines\\pagebouton.xaml.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\pagebouton.xaml.cs",
+              "RelativeToolTip": "sicilylines\\pagebouton.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:07:08.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\Reservation.cs",
+              "RelativeDocumentMoniker": "sicilylines\\Reservation.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\Reservation.cs",
+              "RelativeToolTip": "sicilylines\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:12:25.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pagereservation.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\pagereservation.xaml.cs",
+              "RelativeDocumentMoniker": "sicilylines\\pagereservation.xaml.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\pagereservation.xaml.cs",
+              "RelativeToolTip": "sicilylines\\pagereservation.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:50:13.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pagecompte.xaml",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\pagecompte.xaml",
+              "RelativeDocumentMoniker": "sicilylines\\pagecompte.xaml",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\pagecompte.xaml",
+              "RelativeToolTip": "sicilylines\\pagecompte.xaml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwLoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T18:55:27.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\AppShell.xaml",
+              "RelativeDocumentMoniker": "sicilylines\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\AppShell.xaml",
+              "RelativeToolTip": "sicilylines\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T07:33:49.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pagereservation.xaml",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\pagereservation.xaml",
+              "RelativeDocumentMoniker": "sicilylines\\pagereservation.xaml",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\pagereservation.xaml",
+              "RelativeToolTip": "sicilylines\\pagereservation.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-27T13:05:43.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "sicilylines\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\AppShell.xaml.cs",
+              "RelativeToolTip": "sicilylines\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:28:18.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\MainPage.xaml",
+              "RelativeDocumentMoniker": "sicilylines\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\MainPage.xaml",
+              "RelativeToolTip": "sicilylines\\MainPage.xaml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwEsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-25T09:17:49.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\ApiClient\\Program.cs",
+              "RelativeDocumentMoniker": "ApiClient\\Program.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\ApiClient\\Program.cs",
+              "RelativeToolTip": "ApiClient\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:52:10.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\App.xaml",
+              "RelativeDocumentMoniker": "sicilylines\\App.xaml",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\App.xaml",
+              "RelativeToolTip": "sicilylines\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T18:58:53.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientDAO.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\ApiClient\\ClientDAO.cs",
+              "RelativeDocumentMoniker": "ApiClient\\ClientDAO.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\ApiClient\\ClientDAO.cs",
+              "RelativeToolTip": "ApiClient\\ClientDAO.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:18:57.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAANwUAAAAAAAAAAAwwPYUAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-04T22:00:52.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\App.xaml.cs",
+              "RelativeDocumentMoniker": "sicilylines\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\App.xaml.cs",
+              "RelativeToolTip": "sicilylines\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:56:57.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApiClient.csproj",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\ApiClient\\ApiClient.csproj",
+              "RelativeDocumentMoniker": "ApiClient\\ApiClient.csproj",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\ApiClient\\ApiClient.csproj",
+              "RelativeToolTip": "ApiClient\\ApiClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T07:16:09.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "sicilylines.csproj",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\sicilylines.csproj",
+              "RelativeDocumentMoniker": "sicilylines\\sicilylines.csproj",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\SicilyLinesApp\\sicilylines\\sicilylines\\sicilylines.csproj",
+              "RelativeToolTip": "sicilylines\\sicilylines.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T10:40:50.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\visualstudio2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\visualstudio2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-08T09:42:09.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\viann\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.50\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\viann\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.50\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\viann\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.50\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\viann\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.50\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-27T13:09:12.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
